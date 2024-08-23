@@ -1,0 +1,8 @@
+12345 Antonis Promponas 2034,2 755,41
+27890 Lefteris Georgiadis 1530,7 500,62
+31671 Faidon Verras 550,0 300,0
+44974 Konstantinos Euaggeloy 12789,3 4642,55
+10654 Dimitrios Vraxas 1550,0 550,0
+50637 Nikos Gkonis 2500,61 1267,14
+92461 Nikos Gergerakis 3000,0 1512,49
+48942 Hlias Georgiadis 2165,65 186,6
